@@ -1,0 +1,44 @@
+[{
+		"id": 1,
+		"name": "John",
+		"email": "John@gmail.com",
+		"phone": 9345543210
+	},
+	{
+		"id": 2,
+		"name": "William",
+		"email": "William@yahoo.com",
+		"phone": 9247889372
+	}, {
+		"id": 3,
+		"name": "Arnav",
+		"email": "aru@gmail.com",
+		"phone": 8947192343
+	}, {
+		"id": 4,
+		"name": "lucas",
+		"email": "lukas@gmail.com",
+		"phone": 3074893234
+	}, {
+		"id": 5,
+		"name": "James",
+		"email": "james@yahoomail.com",
+		"phone": 7876489624
+	}, {
+		"id": 6,
+		"name": "Henry",
+		"email": "henry@gmail.com",
+		"phone": 5621782374
+	}, {
+		"id": 7,
+		"name": "Alexander",
+		"email": "alexander@yahoomail.com",
+		"phone": 1437689424
+	},
+	{
+		"id": 8,
+		"name": "Oliver",
+		"email": "oliver@yahoomail.com",
+		"phone": 1237689424
+	}
+]

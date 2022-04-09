@@ -1,0 +1,36 @@
+[{
+		"id": 1,
+		"nam": "John",
+		"codingScore": 98,
+		"mcqScore": 56,
+		"isSucceed": true
+	},
+	{
+		"id": 2,
+		"name": "Smith",
+		"codingScore": 48,
+		"mcqScore": 36,
+		"isSucceed": false
+	},
+	{
+		"id": 3,
+		"name": "William",
+		"codingScore": 78,
+		"mcqScore": 96,
+		"isSucceed": true
+	},
+	{
+		"id": 4,
+		"name": "Oliver",
+		"codingScore": 58,
+		"mcqScore": 76,
+		"isSucceed": true
+	},
+	{
+		"id": 5,
+		"name": "Lucas",
+		"codingScore": 38,
+		"mcqScore": 46,
+		"isSucceed": false
+	}
+]
